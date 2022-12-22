@@ -115,3 +115,7 @@ Usamos la fórmula de divisor de corriente:
 
 # 7. BIBLIOGRAFÍA
 
+* Darwin, I. [@IngEDarwin]. (2019b, julio 28). TEOREMA DE SUPERPOSICIÓN (circuitos eléctricos) - EJEMPLO 1. Youtube. https://www.youtube.com/watch?v=Ygx2dQIwe7Q
+
+* Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
+	https://classroom.google.com/u/2/c/NDkxMjI5MzU3MTI3/m/NDkxMjc4MjMwNDMz/details
