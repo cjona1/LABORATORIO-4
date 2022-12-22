@@ -38,31 +38,33 @@ OBJETIVOS ESPECÍFICOS
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+3.1 Materiales adquiridos.
+
+![image](https://user-images.githubusercontent.com/116817673/209239815-a0954b12-c148-4bda-a996-cb0c352cfb49.png)
+
 3.2 Circuito.
 
 ![image](https://user-images.githubusercontent.com/116687152/209013800-84a3cf3a-50b7-4244-a3f5-2c31e283c25d.png)
 
-5. Procedimiento 
+3.3. Procedimiento
 
-5.1 Arme el circuito en el tinkercad
+3.3.1  Arme el circuito en el tinkercad
 
-![image](https://user-images.githubusercontent.com/116687152/209013928-5b247cb1-bef2-4036-9441-d65d31c0f406.png)
+![image](https://user-images.githubusercontent.com/116817673/209239099-ad5a9bf8-46e8-44e9-9911-5b241ca66231.png)
 
-5.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
-tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
-el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+Link del circuito armado:
+
+https://www.tinkercad.com/things/lQxYhFwfQ51-terrific-luulia/editel?sharecode=dnpewGhUjAYvZqLle1HsWk6ZP6E87zbGdOUOmsXB0WQ
+
+3.3.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![image](https://user-images.githubusercontent.com/116687152/209014494-0aeb514e-c115-436e-b244-de6d85de6ad2.png)
 
-5.3 Haga “cero” la fuente de voltaje de 3 V (V2) y mida el voltaje VA y la corriente IX,
-respetando tanto la polaridad del voltaje como el sentido de la corriente que se
-proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+3.3.3 Haga “cero” la fuente de voltaje de 3 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![image](https://user-images.githubusercontent.com/116687152/209014694-1646e24f-08e5-4bab-a0e6-2b10ea501e71.png)
 
-5.4 Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente
-IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
-proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+3.3.4  Haga “cero” la fuente de voltaje de 10 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![image](https://user-images.githubusercontent.com/116687152/209015090-ae62c24b-ceb3-4ac8-8a22-62fb36ab82b3.png)
 
@@ -70,14 +72,11 @@ Tabla 4.1: Medición de voltaje aplicando superposición
 
 ![image](https://user-images.githubusercontent.com/116687152/209219907-7fc55a49-2a93-4fdb-ac74-e45967288ea5.png)
 
-
 Tabla 4.2: Medición de corriente aplicando superposición
 
 ![image](https://user-images.githubusercontent.com/116687152/209219918-1a231724-b8f2-4267-a338-3ccc6831dca5.png)
 
-6.Verifique el cumplimiento del Teorema de Superposición y compare los
-resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
-conclusiones.
+3.4 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
 TEOREMA DE SUPERPOSICION
 
