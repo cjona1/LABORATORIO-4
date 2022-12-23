@@ -80,11 +80,13 @@ Fisico.
 
 Tabla 4.1: Medición de voltaje aplicando superposición
 
-![image](https://user-images.githubusercontent.com/116687152/209219907-7fc55a49-2a93-4fdb-ac74-e45967288ea5.png)
+![image](https://user-images.githubusercontent.com/116817673/209331824-444dff6e-9ae4-43e1-9431-674a351ac531.png)
+
 
 Tabla 4.2: Medición de corriente aplicando superposición
 
-![image](https://user-images.githubusercontent.com/116687152/209219918-1a231724-b8f2-4267-a338-3ccc6831dca5.png)
+![image](https://user-images.githubusercontent.com/116817673/209331878-592135b4-bf7e-4bcf-93e6-202db9d9a907.png)
+
 
 3.4 Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.
 
