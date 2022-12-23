@@ -19,6 +19,7 @@ Sangolquí, 22 de diciembre del 2022
 		PRACTICA-No.4-Teorema de la superposición.       
     
 #   1. OBJETIVOS
+
 OBJETIVO GENERAL
 
 Conocer el teorema de superposición, mediante el presente laboratorio para relacionar y comprender de mejor manera la relación con los conocimientos aprendidos en un circuito eléctrico entendiendo de mejor manera dichos conceptos y aplicarlos en cualquier campo que se requieran.
@@ -44,11 +45,17 @@ OBJETIVOS ESPECÍFICOS
 
 Bueno para este laboratorio  todas las resistencias ya las hemos venido usando asi que no fue necesario comprarlas.
 
+Las fuentes de poder o fuentes de alimentación, son equipos cuya principal función es transformar la energía.
+
+La resistencia eléctrica es la oposición (dificultad) al paso de la corriente eléctrica.
+
 3.2 Circuito.
 
 ![image](https://user-images.githubusercontent.com/116687152/209013800-84a3cf3a-50b7-4244-a3f5-2c31e283c25d.png)
 
 Entonces el circuito nos permitira hacer el teorema de la superposicion y mediante calculo corroboraremos si es cierto o no dicho teorema.
+
+El circuito consta de dos fuentes de voltaje que mediante el teorema de superposicion se van acortocircuitar es decir cerrarse  para realizar el analisis respectivode corriente y voltaje.
 
 3.3. Procedimiento
 
@@ -134,7 +141,7 @@ https://youtu.be/7DCdYYJaLcE
 
 # 6. CONCLUSIONES
 
-•	El uso y aplicación del teorema de superposición es de gran eficacia cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electrónico y queremos calcular la intensidad que fluye en algún elemento en específico.
+•	El uso y aplicación del teorema de superposición es de gran eficacia cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electrónico y queremos calcular la intensidad que fluye en algún elemento en específico, es recomendable usar este teorema cuando tenemos mas de 1 malla.
 
 •	Los valores calculados (Ix y Va) obtenidos analíticamente tanto de los voltajes como de las corrientes eran similares a los obtenidos en la simulación y el experimental, sin embargo, observamos que estos datos tuvieron unos pequeños márgenes de error  y esto se podría dar por dos razones: al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias , y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habíamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos.
 
