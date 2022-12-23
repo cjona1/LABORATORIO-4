@@ -128,6 +128,9 @@ Mediante el multimetro comprobamos que la corriente de X es la misma:
 
 # 5. VIDEO
 
+Adjunto el link del video donde se explica  la practica y el teoremade superposicion.
+
+https://youtu.be/7DCdYYJaLcE
 
 # 6. CONCLUSIONES
 
