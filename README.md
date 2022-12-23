@@ -42,19 +42,29 @@ OBJETIVOS ESPECÍFICOS
 
 ![image](https://user-images.githubusercontent.com/116817673/209239815-a0954b12-c148-4bda-a996-cb0c352cfb49.png)
 
+Bueno para este laboratorio  todas las resistencias ya las hemos venido usando asi que no fue necesario comprarlas.
+
 3.2 Circuito.
 
 ![image](https://user-images.githubusercontent.com/116687152/209013800-84a3cf3a-50b7-4244-a3f5-2c31e283c25d.png)
 
+Entonces el circuito nos permitira hacer el teorema de la superposicion y mediante calculo corroboraremos si es cierto o no dicho teorema.
+
 3.3. Procedimiento
 
-3.3.1  Arme el circuito en el tinkercad
+3.3.1  Arme el circuito .
+
+En tinkercad.
 
 ![image](https://user-images.githubusercontent.com/116817673/209239099-ad5a9bf8-46e8-44e9-9911-5b241ca66231.png)
 
 Link del circuito armado:
 
 https://www.tinkercad.com/things/lQxYhFwfQ51-terrific-luulia/editel?sharecode=dnpewGhUjAYvZqLle1HsWk6ZP6E87zbGdOUOmsXB0WQ
+
+Fisico.
+
+![image](https://user-images.githubusercontent.com/116817673/209328672-81a49f7e-af32-416b-ba66-2640695106e1.png)
 
 3.3.2 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
@@ -102,6 +112,10 @@ Usamos la fórmula de divisor de corriente:
 
 ![image](https://user-images.githubusercontent.com/116817673/209237997-2edcfd3b-656e-4850-90e6-0b5c4648309d.png)
 
+Mediante el multimetro comprobamos que el voltaje de A es el mismo:
+
+![image](https://user-images.githubusercontent.com/116817673/209328828-312f5543-7548-4476-b98d-805c338fb1a7.png)
+
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/116817673/209238149-d0968279-5ead-4357-a134-c5f44598ac9a.png)
@@ -110,6 +124,12 @@ Usamos la fórmula de divisor de corriente:
 
 
 # 6. CONCLUSIONES
+
+•	El uso y aplicación del teorema de superposición es de gran eficacia cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electrónico y queremos calcular la intensidad que fluye en algún elemento en específico.
+
+•	Los valores calculados (Ix y Va) obtenidos analíticamente tanto de los voltajes como de las corrientes eran similares a los obtenidos en la simulación y el experimental, sin embargo, observamos que estos datos tuvieron unos pequeños márgenes de error  y esto se podría dar por dos razones: al momento de calcular con el multímetro los valores, intervienen las tolerancias de las resistencias , y esto podría afectar a los valores obtenidos; mientras que en los valores medidos tal vez intervenga el hecho que no habíamos usado todos los decimales presentados en la calculadora, la cual aunque poco afecta los valores obtenidos.
+
+•	La práctica me ha servido para aprender la definición del teorema de superposiciones y anotamos los pasos a seguir para tener una mejor idea de su uso, el conocimiento previo de los temas del primer parcial se aplican en este nuevo teorema.
 
 
 # 7. BIBLIOGRAFÍA
