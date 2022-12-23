@@ -80,7 +80,7 @@ Fisico.
 
 Tabla 4.1: Medición de voltaje aplicando superposición
 
-![image](https://user-images.githubusercontent.com/116817673/209331824-444dff6e-9ae4-43e1-9431-674a351ac531.png)
+![image](https://user-images.githubusercontent.com/116817673/209332016-0ac3b914-ac56-44cc-9901-48adb4692961.png)
 
 
 Tabla 4.2: Medición de corriente aplicando superposición
