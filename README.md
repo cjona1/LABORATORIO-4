@@ -118,6 +118,10 @@ Mediante el multimetro comprobamos que el voltaje de A es el mismo:
 
 ![image](https://user-images.githubusercontent.com/116817673/209328828-312f5543-7548-4476-b98d-805c338fb1a7.png)
 
+Mediante el multimetro comprobamos que la corriente de X es la misma:
+
+![image](https://user-images.githubusercontent.com/116817673/209332876-b1c34d7f-5103-424e-8ab4-8e6c1e3de97c.png)
+
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/116817673/209238149-d0968279-5ead-4357-a134-c5f44598ac9a.png)
